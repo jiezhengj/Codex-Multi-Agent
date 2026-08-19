@@ -1,12 +1,3 @@
----
-title: Codex Multi-Agent 动态编排项目指南
-status: active
-tags:
-  - AI
-  - Codex
-  - MultiAgent
----
-
 [English](README_en.md) | [中文](README_zh.md)
 
 # 项目概述

@@ -1,12 +1,3 @@
----
-title: Codex Multi-Agent Dynamic Orchestration Guide
-status: active
-tags:
-  - AI
-  - Codex
-  - MultiAgent
----
-
 [English](README_en.md) | [中文](README_zh.md)
 
 # Project Overview

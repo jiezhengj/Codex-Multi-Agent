@@ -1,18 +1,3 @@
----
-title: Codex Multi-Agent Dynamic Orchestration Memo
-date: 2026-08-05
-updated: 2026-08-05
-status: active
-tags:
-  - AI
-  - Engineering
-aliases:
-  - Codex Luna Configuration Memo
-  - Luna Worker Restoration Guide
-category: Experience & Learning/AI
-created: 2026-08-06T14:42:24
----
-
 > Last Updated: 2026-08-19
 >
 > Goals:

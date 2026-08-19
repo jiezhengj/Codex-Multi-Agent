@@ -1,18 +1,3 @@
----
-title: Codex Multi-Agent 动态编排备忘录
-date: 2026-08-05
-updated: 2026-08-05
-status: active
-tags:
-  - AI
-  - 技术
-aliases:
-  - Codex Luna 配置备忘录
-  - Luna Worker 还原指南
-category: 经验和学习/AI
-created: 2026-08-06T14:42:24
----
-
 > 更新时间：2026-08-19
 >
 > 目标：

@@ -6,12 +6,16 @@
 
 旨在通过轻量化配置（`.codex/config.toml` + `AGENTS.md`），实现主 Agent 与子 Agent（SubAgent）之间的智能任务分发，充分发挥不同模型（Sol / Terra / Luna）的优势，并达成上下文隔离与高效协作。
 
+# 信息图预览
+
+![Codex Multi-Agent 动态编排备忘录中文信息图](attachments/Codex%20Multi-Agent%20动态编排备忘录_zh-infographic.png)
+
 # 文档导航
 
 本项目包含中英双语的完整技术备忘与配置指南：
 
 - **中文版指南**：[Codex Multi-Agent 动态编排备忘录 (中文)](Codex%20Multi-Agent%20动态编排备忘录_zh.md)
-- **英文版指南**：[Codex Multi-Agent Dynamic Orchestration Memo (English)](Codex%20Multi-Agent%20动态编排备忘录_en.md)
+- **英文版指南**：[Codex Multi-Agent Dynamic Orchestration Memo (English)](Codex%20Multi-Agent%20Dynamic%20Orchestration%20Memo_en.md)
 - **英文版 README**：[English README](README_en.md)
 
 # 核心设计原则

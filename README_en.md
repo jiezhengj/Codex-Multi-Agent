@@ -6,11 +6,15 @@ This repository provides a comprehensive guide and configuration blueprint for *
 
 Using minimal, configuration-driven setup (`.codex/config.toml` + `AGENTS.md`), it enables intelligent subtask delegation across models (Sol / Terra / Luna), context isolation, and bounded parallelism.
 
+# Infographic Preview
+
+![Codex Multi-Agent Dynamic Orchestration Memo infographic](attachments/Codex%20Multi-Agent%20Dynamic%20Orchestration%20Memo_en-infographic.png)
+
 # Documentation Navigation
 
 Complete technical memos and configuration guides are available in both English and Chinese:
 
-- **English Guide**: [Codex Multi-Agent Dynamic Orchestration Memo (English)](Codex%20Multi-Agent%20动态编排备忘录_en.md)
+- **English Guide**: [Codex Multi-Agent Dynamic Orchestration Memo (English)](Codex%20Multi-Agent%20Dynamic%20Orchestration%20Memo_en.md)
 - **Chinese Guide**: [Codex Multi-Agent 动态编排备忘录 (Chinese)](Codex%20Multi-Agent%20动态编排备忘录_zh.md)
 - **Chinese README**: [中文 README](README_zh.md)
 
@@ -35,4 +39,4 @@ your-project/
     └── config.toml
 ```
 
-For full configuration templates and rollback instructions, see the [Dynamic Orchestration Memo](Codex%20Multi-Agent%20动态编排备忘录_en.md).
+For full configuration templates and rollback instructions, see the [Dynamic Orchestration Memo](Codex%20Multi-Agent%20Dynamic%20Orchestration%20Memo_en.md).
